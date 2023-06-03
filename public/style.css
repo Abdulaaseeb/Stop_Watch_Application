@@ -1,0 +1,48 @@
+@media only screen and (max-width: 950px) {
+    #all {
+        margin-left: 0%;
+        margin-right: 0%;
+
+    }
+}
+
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    display: inline-block;
+    width: 50px;
+    background-color: white;
+    color: black;
+    font-style: italic;
+}
+
+.all {
+    border: 2px solid white;
+    background-color: white;
+    margin-left: 33%;
+    margin-right: 33%;
+    margin-top: 10%;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+h1 {
+    color: black;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+button {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    font-style: italic;
+}
+button:hover{
+    cursor: pointer;
+}
